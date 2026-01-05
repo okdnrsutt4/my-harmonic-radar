@@ -1,6 +1,1 @@
 streamlit
-ccxt
-pandas
-numpy
-scipy
-plotly
